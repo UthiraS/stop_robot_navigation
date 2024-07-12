@@ -45,10 +45,14 @@ Once the robot starts navigating,
 
 
 
-<video width="320" height="240" controls>
-  <source src="path/to/your/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+
+
+https://github.com/user-attachments/assets/8e9c31d0-260f-45f9-93ea-801ea4d8d664
+
+
+
 
    
 
