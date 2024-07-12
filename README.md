@@ -24,7 +24,23 @@ Repository to navigate a robot in nav2 ros and create a C++ node to stop the rob
 
 
 ### Instructions   
-1.**Set Environment Variables for Gazebo**
+
+1. **Set Environment Variables for Gazebo**
+ ```sh
+  export TURTLEBOT3_MODEL=waffle
+  export GAZEBO_MODEL_PATH=$GAZEBO_MODEL_PATH:/opt/ros/humble/share/turtlebot3_gazebo/models
+
+2. **Launch the ROS2 Navigation Stack**
+ ```sh
+ros2 launch nav2_bringup tb3_simulation_launch.py headless:=False
+
+3. **Set the initial pose by clicking the “2D Pose Estimate” button in RViz**
+4. **click the “Navigaton2 Goal” button and choose a destination**
+Once the robot starts navigating,
+
+5. **Stop the robot**
+ ```sh
+ ros2 run robot_nav_stop stop_robot
  ```sh
 export TURTLEBOT3_MODEL=waffle
 export GAZEBO_MODEL_PATH=$GAZEBO_MODEL_PATH:/opt/ros/humble/share/turtlebot3_gazebo/models
@@ -44,6 +60,10 @@ Once the robot starts navigating,
 
 
 
+<video width="320" height="240" controls>
+  <source src="path/to/your/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
    
 
