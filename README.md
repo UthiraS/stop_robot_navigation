@@ -42,6 +42,7 @@ Once the robot starts navigating,
    ```sh
    ros2 run robot_nav_stop stop_robot
    
+[Watch the demo video](output.mp4)
 
 
 
@@ -49,7 +50,6 @@ Once the robot starts navigating,
 
 
 
-https://github.com/user-attachments/assets/8e9c31d0-260f-45f9-93ea-801ea4d8d664
 
 
 
