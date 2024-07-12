@@ -42,7 +42,10 @@ Once the robot starts navigating,
    ```sh
    ros2 run robot_nav_stop stop_robot
    
-[Watch the demo video](output.mp4)
+<video width="320" height="240" controls>
+  <source src="https://github.com/UthiraS/stop_robot_navigation/blob/main/output.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
