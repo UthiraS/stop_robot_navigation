@@ -44,6 +44,9 @@ Once the robot starts navigating,
    
 
 
+####
+[![Watch the video](https://drive.google.com/drive/u/1/folders/1u8yudMjN850CzRPi354KJ_8F62iRxQ3o)](https://drive.google.com/drive/u/1/folders/1u8yudMjN850CzRPi354KJ_8F62iRxQ3o)
+
 
 
 
