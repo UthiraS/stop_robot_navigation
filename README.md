@@ -45,7 +45,8 @@ Once the robot starts navigating,
 
 
 ####
-<iframe src="https://drive.google.com/file/d/1u8yudMjN850CzRPi354KJ_8F62iRxQ3o/preview" width="640" height="480" allow="autoplay"></iframe>
+<video src="result_00000.mp4"></video>
+
 
 
 
