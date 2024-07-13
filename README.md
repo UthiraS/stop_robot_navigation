@@ -45,7 +45,7 @@ Once the robot starts navigating,
 
 
 ####
-<video src="result_00000.mp4"></video>
+<video src="[result_00000.mp4](https://github.com/UthiraS/stop_robot_navigation/blob/main/result_00000.mp4)"></video>
 
 
 
