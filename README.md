@@ -44,12 +44,11 @@ Once the robot starts navigating,
    
 
 
-####
-<video width="640" height="480" controls>
-  <source src="https://github.com/UthiraS/stop_robot_navigation/blob/main/result_00000.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+### Video
 
+
+
+[Screencast from 07-12-2024 08:36:24 PM.webm](https://github.com/user-attachments/assets/1b2d6076-f4f2-4c54-a2b4-f3a6dea498cc)
 
 
 
